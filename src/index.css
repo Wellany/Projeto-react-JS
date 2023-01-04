@@ -11,3 +11,114 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.margin{
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+.h2{
+  padding: 16px;
+  background-color: yellow;
+}
+
+li {
+  color: #02024c;
+}
+
+
+h1 {
+  font-size: 63px;
+  color: #303030;
+  padding: 15px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 54px;
+  color: #303030;
+  font-weight: 600;
+}
+.carousel-caption h5{
+font-size: 90px;
+color: #ffc107;
+text-shadow: 2px 2px 2px black;
+}
+.carousel-caption h6{
+  font-size: 40px;
+  color: #ffc107;
+  text-shadow: 2px 2px 2px black;
+  }
+
+.col-sm-4 h3{
+text-align: left;
+}
+.prod {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  background-size: cover;
+  background-position: center;
+}
+.tamanho{
+  max-height: 250px;
+  max-width: 100%;
+}
+.removePad{
+  padding: 0px;
+  margin: 0px;
+}
+.tamanhoSlide{
+max-height: 600px;
+padding: 0px;
+margin: 0px;
+}
+.tamanhoItemSlide{
+  max-width: 100%;
+  align-content: center;
+  }
+.cardTitle{
+  margin-top: 32px;
+  margin-bottom: 24px;
+}
+.card{
+  padding: 8px;
+  margin: 8px;
+}
+.QS{
+  padding: 32px;
+}
+.F-QS {
+  width: 200px;
+  height: 200PX;
+  background-image: url(../src/Images/Qsomos.jpg);
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+.F-W {
+  width: 200px;
+  height: 200PX;
+  background-image: url(../src/Images/Time/Wilka.jpg);
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+.F-L {
+  width: 200px;
+  height: 200PX;
+  background-image: url(../src/Images/Time/Wellany.jpeg);
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+.F-M {
+  width: 200px;
+  height: 200PX;
+  background-image: url(../src/Images/Time/Maria.jpeg);
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
